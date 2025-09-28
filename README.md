@@ -312,3 +312,7 @@ Fixed bug with improved error handling - ID: 8ej90ter
 ## Update 2025-09-28 22:54:58
 Added tests for better user experience - ID: fezr6uk4
 
+
+## Update 2025-09-28 22:55:07
+Added configuration for better user experience - ID: pvxo35ri
+
